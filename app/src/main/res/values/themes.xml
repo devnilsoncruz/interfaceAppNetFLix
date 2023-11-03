@@ -1,0 +1,11 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.InterfaceAppNetFLix" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Customize your light theme here. -->
+        <item name="colorPrimary">@color/Red</item>
+        <item name="colorPrimaryVariant">@android:color/holo_red_dark</item>
+        <item name="android:windowBackground">@color/black</item>
+    </style>
+
+    <style name="Theme.InterfaceAppNetFLix" parent="Base.Theme.InterfaceAppNetFLix" />
+</resources>
